@@ -276,11 +276,13 @@ if __name__ == "__main__":
     main()
 ```
 <h2>Output:</h2>
-<img width="561" height="613" alt="499234148-d043d744-f688-4150-ac71-c8ff04eb0a56" src="https://github.com/user-attachments/assets/f538275a-9c17-454f-b245-b1401e295c54" />
 
-<img width="557" height="615" alt="499234198-d0ae10f0-ca77-4509-96d6-52506d9b9ffe" src="https://github.com/user-attachments/assets/79e989b8-843a-45e6-a2b7-3d7a82b7a891" />
+<img width="445" height="500" alt="Screenshot 2026-11-19 102244" src="https://github.com/user-attachments/assets/9b7d3ecc-05e0-4493-bd4c-0021bce82fb6" />
 
-<img width="571" height="384" alt="499234255-d982b312-e943-4cda-a73e-f1cbcc9de2d8" src="https://github.com/user-attachments/assets/ec11a785-16bb-44c3-b656-dcee43f47869" />
+<img width="600" height="602" alt="Screenshot 2026-11-19 102318" src="https://github.com/user-attachments/assets/6532f8d3-52c8-4a04-a3e3-33d7d3265396" />
+
+<img width="470" height="607" alt="Screenshot 2026-11-19 102328" src="https://github.com/user-attachments/assets/575e6258-5a32-4593-91bf-d84a5e4cf4ba" />
+
 
 <hr>
 <h2>Result:</h2>
